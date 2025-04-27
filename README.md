@@ -59,10 +59,6 @@ Instale as bibliotecas necessárias:
 pip install requests pandas
 ```
 
-Caso você ainda não tenha o arquivo requirements.txt, adicione as bibliotecas necessárias manualmente. Por exemplo:
-```
-requests
-```
 
 Como Usar
 Obter cotação: O script principal (main.py) permite consultar a cotação de diferentes moedas, passando os parâmetros adequados.
