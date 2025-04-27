@@ -79,14 +79,12 @@ O script gerará um arquivo .csv com as cotações de moedas.
 
 ```
 Estrutura do Projeto
-cotacao-moeda/
+simples-cotacao-api
 │
 ├── main.py            # Script principal para consultar cotações
 ├── README.md          # Documentação do projeto
-├── requirements.txt    # Dependências do projeto
 ├── .gitignore          # Arquivo para ignorar arquivos não versionados
-└── dados/
-    └── cotações.csv    # Exemplo de arquivo CSV gerado
+|── cotações.csv    # Exemplo de arquivo CSV gerado
 
 ```
 Contribuições
