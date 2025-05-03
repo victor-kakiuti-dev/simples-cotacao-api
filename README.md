@@ -1,4 +1,4 @@
-﻿# simples-cotacao-api
+﻿# Simples_Cotacao_API
 
 
 Este projeto é uma aplicação simples para consultar a **cotação de moedas** em tempo real, utilizando dados de APIs públicas. O objetivo é fornecer as informações de conversão de moedas entre diferentes valores, permitindo ao usuário obter o valor equivalente em outra moeda.
